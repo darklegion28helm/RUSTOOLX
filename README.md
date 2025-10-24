@@ -13,7 +13,7 @@
 ## 🌲 Why This is Survival
 | Strength            | Benefit                              |
 |---------------------|--------------------------------------|
-| 🔒 **Undetected**   | Evades anti-cheat (Aug 2025).        |
+| 🔒 **Undetected**   | Evades anti-cheat (24.10.2025).        |
 | ⚡️ **Tough**        | Runs smooth with minimal lag.        |
 | 🎒 **Versatile**   | Customize for your survival tactic.  |
 | 📅 **Enduring**    | Auto-updates for new wipes.          |
